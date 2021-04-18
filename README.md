@@ -2,6 +2,8 @@
 
  A simple clone of Codepen
  
+ [Link for the Clone](https://manish-codepen.netlify.app/)
+ 
  ## Tech Stack used
  1. React          
  2. Javascript
